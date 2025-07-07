@@ -10,3 +10,4 @@ Voter anonymity is preserved
 The entire election process is verifiable and auditable
 
 This solution addresses the common problems in traditional voting systems such as vote rigging, fake votes, double voting, and lack of transparency.
+![image](https://github.com/user-attachments/assets/3fb95811-14d8-4eed-8544-473777955562)
